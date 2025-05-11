@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Kimberly Lactaoen, MS"
+  site-url: "https://kimberly-lactaoen.github.io/"
   navbar:
     left:
       - text: "Home"
