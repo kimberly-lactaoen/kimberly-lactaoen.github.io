@@ -141,7 +141,20 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="american-thoracic-conference-2025" class="level2 column-page">
 <h2 class="anchored" data-anchor-id="american-thoracic-conference-2025">American Thoracic Conference 2025</h2>
-<iframe src="pdfs/ats_2025_lactaoen.pdf" width="100%" height="600px" style="border: none;">
+<style>
+  .responsive-pdf {
+    width: 100%;
+    height: 100vh;
+    border: none;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-pdf {
+      height: 90vh;
+    }
+  }
+</style>
+<iframe class="responsive-pdf" src="pdfs/ats_2025_lactaoen.pdf">
 </iframe>
 </section>
 
