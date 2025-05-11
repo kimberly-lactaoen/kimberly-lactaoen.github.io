@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Kimberly Lactaoen, MS"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - presentations.qmd 
+  favicon: "images/profile.jpeg"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
