@@ -7,17 +7,14 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/kimberly-lactaoen"
-    - text: GitHub
-      icon: github
-      url: "https://github.com/kimberly-lactaoen"
 ---
 
 ::: column-page
 ## About Me
 
-I am a bioinformatician with a background in evolutionary biology and biomedical research. I currently work in the Weissman Lab at the Palliative and Advanced Illness Research Center at the University of Pennsylvania. I currently contribute to projects involving the use of electronic health records for understanding asthma in adults.
+I am a bioinformatician with a background in evolutionary biology and biomedical research. I currently work in the Weissman Lab at the Palliative and Advanced Illness Research Center ([PAIR Center](https://pair.upenn.edu/)) at the University of Pennsylvania. I currently contribute to projects involving the use of electronic health records for understanding asthma in adults.
 
 I have earned a Bachelor of Science in Biology and a Master of Science in Developmental and Reproductive Biology from the University of Hawai’i at Mānoa.
 
-In my spare time, I like to be outside as much as I can.
+In my spare time, I like to be outside as much as I can. I currently am learning how to golf and recently went to the 2025 Truist Championship! One day I'll make par!
 :::
