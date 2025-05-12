@@ -3,7 +3,7 @@
     "path": "~/kimberly.lactaoen/presentations.qmd",
     "project_path": "presentations.qmd",
     "type": "quarto_markdown",
-    "hash": "4137280402",
+    "hash": "1380442989",
     "contents": "",
     "dirty": false,
     "created": 1746971550017.0,
@@ -14,15 +14,15 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,0",
-        "scrollLine": "2"
+        "cursorPosition": "28,0",
+        "scrollLine": "12"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746983490,
+    "lastKnownWriteTime": 1747078617,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746983490730,
+    "last_content_update": 1747078617805,
     "read_only": false,
     "read_only_alternatives": []
 }
