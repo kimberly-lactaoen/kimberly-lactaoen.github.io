@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - pdfs/**
+    
 website:
   title: "Kimberly Lactaoen, MS"
   site-url: "https://kimberly-lactaoen.github.io/"
