@@ -12,7 +12,7 @@ about:
 ::: column-page
 ## About Me
 
-I am a bioinformatician with a background in evolutionary biology and biomedical research. I currently work in the Weissman Lab at the Palliative and Advanced Illness Research Center ([PAIR Center](https://pair.upenn.edu/)) at the University of Pennsylvania. I currently contribute to projects involving the use of electronic health records for understanding asthma in adults.
+I am a bioinformatician with a background in evolutionary biology and biomedical research. I work in the Weissman Lab at the Palliative and Advanced Illness Research Center ([PAIR Center](https://pair.upenn.edu/)) at the University of Pennsylvania, contributing to projects involving the use of electronic health records for understanding asthma in adults.
 
 I have earned a Bachelor of Science in Biology and a Master of Science in Developmental and Reproductive Biology from the University of Hawai’i at Mānoa.
 
