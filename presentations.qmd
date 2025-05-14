@@ -6,5 +6,6 @@ format: html
 ::: column-page
 ## American Thoracic Society Conference 2025
 
-[View the PDF] (pdfs/ats_2025_lactaoen.pdf)
+[View the PDF](pdfs/ats_2025_lactaoen.pdf)
+
 :::
