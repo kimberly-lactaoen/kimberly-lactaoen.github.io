@@ -1,1 +1,9 @@
 /.quarto/
+.Rproj.user
+_site/
+.Rhistory
+*.Rproj
+# System files
+.DS_Store
+
+docs/
