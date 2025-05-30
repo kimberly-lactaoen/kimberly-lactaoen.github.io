@@ -3,9 +3,12 @@ title: "Presentations"
 format: html
 ---
 
+## R/Medicine Conference 2025
+
 ## American Thoracic Society Conference 2025
 
 [ATS 2025 poster](pdfs/ats_2025_lactaoen.pdf)
 
+<iframe src="pdfs/ats_2025_lactaoen.pdf" width="100%" height="600px" style="border: none;">
 
-<iframe src="pdfs/ats_2025_lactaoen.pdf" width="100%" height="600px" style="border: none;"></iframe>
+</iframe>
